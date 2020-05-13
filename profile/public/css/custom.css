@@ -1,0 +1,33 @@
+body{
+
+    font-family: 'Open Sans';
+
+}
+
+
+
+
+.brand-logo{
+
+height: 50px;
+width: 50px;
+
+
+
+}
+
+
+.parallax{
+  background-image: url("../img/banar.jpg");
+  min-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-position: no-repeat;
+
+}
+.top{
+
+margin-top: 160px;
+
+}
